@@ -54,4 +54,3 @@ Built as part of n8n Academy's *Essentials: Your First Workflows* course — a h
 
 ---
 
-*Built by [Your Name]*
